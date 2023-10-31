@@ -7,3 +7,11 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 * Python
 * Pandas
 * Numpy
+
+**Some Important Insights Generated:**
+* Delhi has highest Occupancy Rate followed by Hyderabad, Mumbai, Bangalore.
+* Weekends has better Occupancy Rate than `Weekdays`.
+* May has highest revenue realized.
+* Mumbai generates the highest revenue followed by Bangalore, Hyderabad and Delhi.
+* AtliQ Bay has the highest occupancy.
+* Delhi tops rating followed by Hyderabad, Mumbai, Bangalore.
